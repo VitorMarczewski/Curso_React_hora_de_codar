@@ -1,0 +1,152 @@
+{
+  "products": [
+    {
+      "id": "b1f2",
+      "name": "Monitor 24' Full HD",
+      "price": "800",
+      "brand": "Samsung",
+      "description": "Monitor LED 24 polegadas com resolução Full HD e taxa de atualização de 75Hz."
+    },  
+    {
+      "id": "a9d7",
+      "name": "Teclado Mecânico RGB",
+      "price": "250",
+      "brand": "Redragon",
+      "description": "Teclado mecânico com switches Cherry MX, iluminação RGB personalizável."
+    },
+    {
+      "id": "d3b1",
+      "name": "Mouse Gamer Óptico",
+      "price": "150",
+      "brand": "Logitech",
+      "description": "Mouse com sensor de 16.000 DPI, botões programáveis e iluminação RGB."
+    },
+    {
+      "id": "d6c4",
+      "name": "Headset Bluetooth",
+      "price": "300",
+      "brand": "Corsair",
+      "description": "Headset sem fio com som surround 7.1 e microfone removível."
+    },
+    {
+      "id": "a5b3",
+      "name": "Placa de Vídeo RTX 3060",
+      "price": "3500",
+      "brand": "NVIDIA",
+      "description": "Placa de vídeo com 12GB de VRAM GDDR6, ideal para jogos em 1440p e 4K."
+    },
+    {
+      "id": "b8d2",
+      "name": "SSD 500GB",
+      "price": "350",
+      "brand": "Kingston",
+      "description": "SSD SATA III de 500GB com leitura de até 550MB/s e escrita de até 450MB/s."
+    },
+    {
+      "id": "e2a4",
+      "name": "Processador Ryzen 5 3600",
+      "price": "1200",
+      "brand": "AMD",
+      "description": "Processador de 6 núcleos e 12 threads, com velocidade base de 3.6 GHz."
+    },
+    {
+      "id": "f1b9",
+      "name": "Memória RAM 16GB DDR4",
+      "price": "600",
+      "brand": "Corsair",
+      "description": "Kit com 2 módulos de 8GB DDR4, frequência de 3200MHz, para otimização de multitarefas."
+    },
+    {
+      "id": "b2d5",
+      "name": "Placa-mãe ATX",
+      "price": "400",
+      "brand": "ASUS",
+      "description": "Placa-mãe ATX com chipset B450, 4 slots de RAM e suporte para overclock."
+    },
+    {
+      "id": "c1f2",
+      "name": "Fonte 750W",
+      "price": "400",
+      "brand": "Cooler Master",
+      "description": "Fonte de alimentação de 750W com certificação 80 Plus Bronze e proteção contra sobrecarga."
+    },
+    {
+      "id": "a1d3",
+      "name": "Caixa de Som Bluetooth",
+      "price": "200",
+      "brand": "JBL",
+      "description": "Caixa de som portátil com som estéreo e até 12 horas de autonomia."
+    },
+    {
+      "id": "b7a9",
+      "name": "Microfone Condensador",
+      "price": "350",
+      "brand": "Blue Yeti",
+      "description": "Microfone condensador USB ideal para gravações profissionais e transmissões ao vivo."
+    },
+    {
+      "id": "f5c7",
+      "name": "Cadeira Gamer",
+      "price": "1000",
+      "brand": "DXRacer",
+      "description": "Cadeira ergonômica com apoio para os braços, regulagem de altura e suporte lombar.",
+      "img": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/t/g/tgt-hrtc-bl023.jpg"
+    },
+    {
+      "id": "c3b9",
+      "name": "Webcam 1080p",
+      "price": "250",
+      "brand": "Logitech",
+      "description": "Webcam Full HD com microfone embutido e lente de alta definição para videoconferências."
+    },
+    {
+      "id": "a7e6",
+      "name": "Fone de Ouvido com Fio",
+      "price": "100",
+      "brand": "Sony",
+      "description": "Fone de ouvido estéreo com cabo de 3.5mm, som nítido e confortável para longas sessões."
+    },
+    {
+      "id": "d4e2",
+      "name": "Hub USB 3.0",
+      "price": "80",
+      "brand": "Anker",
+      "description": "Hub USB 3.0 com 4 portas para transferência de dados em alta velocidade."
+    },
+    {
+      "id": "c8a7",
+      "name": "Cooler para CPU",
+      "price": "120",
+      "brand": "Cooler Master",
+      "description": "Cooler a ar com ventilador de 120mm e dissipador de calor eficiente."
+    },
+    {
+      "id": "e4f5",
+      "name": "Cartão SD 64GB",
+      "price": "50",
+      "brand": "SanDisk",
+      "description": "Cartão SD com 64GB de capacidade, velocidade de leitura de 95MB/s."
+    },
+    {
+      "id": "a1b4",
+      "name": "Roteador Wi-Fi 6",
+      "price": "500",
+      "brand": "TP-Link",
+      "description": "Roteador Wi-Fi 6 com suporte a velocidades de até 1Gbps e tecnologia MU-MIMO."
+    },
+    {
+      "id": "f3e4",
+      "name": "Gabinete ATX",
+      "price": "350",
+      "brand": "NZXT",
+      "description": "Gabinete ATX com excelente fluxo de ar e suporte para até 6 ventoinhas."
+    },
+    {
+      "id": "b4c3",
+      "name": "Cartão de Vídeo GTX 1660",
+      "price": "2200",
+      "brand": "NVIDIA",
+      "description": "Placa de vídeo com 6GB de VRAM GDDR5, ideal para jogos em 1080p."
+    }
+  ]
+}

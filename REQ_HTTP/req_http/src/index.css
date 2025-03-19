@@ -1,0 +1,39 @@
+.App{
+  display: flex;
+  flex-flow: row wrap;
+}
+.products-list{
+  display: flex;
+  flex-direction: column;
+  min-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+
+}
+.products-list ul{
+  list-style: none;
+  
+}
+.products-list ul li{
+  margin: 5px;
+  padding: 5px;
+  border-bottom: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+  
+}
+.add-product{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 350px;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.add-product label{
+  margin: 2px 3px;
+  padding: 10px;
+}

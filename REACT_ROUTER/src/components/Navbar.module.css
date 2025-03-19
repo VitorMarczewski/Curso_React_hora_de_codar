@@ -1,0 +1,42 @@
+
+.navbar{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    justify-content: space-between;
+    
+   
+}
+.navbar a{
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 2em;
+    color: #Fff;
+}
+
+.navbar h1{
+    margin-left: 20px;
+    font-weight: bold;
+    
+}
+.navLinks{
+    background-color: red;
+    border-radius: 5px;
+    display: flex;
+    list-style: none;
+    margin: 10px;
+    padding: 10px;
+    margin-right: 2em;
+   
+
+    
+}
+.navLinks li {
+    text-decoration: none;
+   
+    
+    
+
+}
